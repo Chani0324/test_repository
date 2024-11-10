@@ -1,1 +1,2 @@
+feature A 작성 완료!
 feature b 수정 완료!
