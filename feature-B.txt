@@ -1,1 +1,1 @@
-feature B 작성 완료!
+feature b 작성 완료!
